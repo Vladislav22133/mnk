@@ -1,0 +1,11 @@
+D:\влад практика\зад 5\мнк\bin\Debug\netcoreapp3.1\мнк.exe
+D:\влад практика\зад 5\мнк\bin\Debug\netcoreapp3.1\мнк.deps.json
+D:\влад практика\зад 5\мнк\bin\Debug\netcoreapp3.1\мнк.runtimeconfig.json
+D:\влад практика\зад 5\мнк\bin\Debug\netcoreapp3.1\мнк.runtimeconfig.dev.json
+D:\влад практика\зад 5\мнк\bin\Debug\netcoreapp3.1\мнк.dll
+D:\влад практика\зад 5\мнк\bin\Debug\netcoreapp3.1\мнк.pdb
+D:\влад практика\зад 5\мнк\obj\Debug\netcoreapp3.1\мнк.csprojAssemblyReference.cache
+D:\влад практика\зад 5\мнк\obj\Debug\netcoreapp3.1\мнк.AssemblyInfoInputs.cache
+D:\влад практика\зад 5\мнк\obj\Debug\netcoreapp3.1\мнк.AssemblyInfo.cs
+D:\влад практика\зад 5\мнк\obj\Debug\netcoreapp3.1\мнк.dll
+D:\влад практика\зад 5\мнк\obj\Debug\netcoreapp3.1\мнк.pdb
